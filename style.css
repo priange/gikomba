@@ -1,0 +1,95 @@
+#Gikomba{
+    margin-left: 3%;
+}
+.main{
+    display: flex;
+    margin-left:30%;
+    margin-top: -5%;
+    font-size: 20px;
+}
+#service{
+    margin-left: 3%;
+
+}
+#Registry{
+    margin-left: 3%;
+}
+#gifts{
+    margin-left: 3%;
+
+}
+#shop1{
+    margin-left: 25%;
+}
+#image1{
+    margin-left: 60%;
+    margin-top: -20%;
+}
+
+#feather{
+    margin-left: 60%;
+    margin-top: -45%;
+}
+#image1{
+    margin-top: -30%;
+}
+.images2{
+    margin-left: 60%;
+    margin-top: -6%;
+}
+#design4{
+    margin-top: -20%;
+}
+.all{
+    font-size: 20px;
+    margin-top: 10%;
+    /* background-image: url(/images/many.jpeg);
+    background-repeat: no-repeat;
+    color:chocolate */
+    background-color: whitesmoke;
+}
+.designs{
+    font-size: 20px;
+}
+.all2{
+    background-color: rgb(253, 214, 214);
+}
+.footer area{
+    display:flex;
+    
+}
+#blouses1{
+    /* margin-left: 2%; */
+    margin-top: -30%;
+}
+#blouses2{
+    margin-left: 50%;
+    margin-top: -50%;
+}
+#design5{
+    margin-top: 30%;
+}
+#sweaters{
+    width:400px;
+    height: 228px;
+}
+#clothes4{
+    /* width: 200px; */
+    height: 300%;
+}
+#sweater2{
+    margin-left: 40%;
+    margin-top: -20%;
+}
+#many1{
+    margin-top: -20%;
+    margin-left: 15%;
+}
+#logo{
+
+    width: 10px;
+    /* padding: 3%; */
+    /* margin-right: 20%; */
+    /* margin-top: 10%; */
+    
+}
